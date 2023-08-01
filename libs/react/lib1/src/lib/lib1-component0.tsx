@@ -6,7 +6,7 @@ import './lib1-component0.css';
 export const Lib1Component0 = () => {
   return (
     <div>
-      <h1>Welcome to lib0-component0 component! - 2 {SHARED_CONST}</h1>
+      <h1>Welcome to lib0-component0 component! - 3 {SHARED_CONST}</h1>
     </div>
   );
 };
